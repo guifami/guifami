@@ -1,4 +1,4 @@
-## Olá, Eu sou o Guilherme Ruiz =)
+## Olá, Me chamo Guilherme Ruiz =)
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guifami)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ruiz-da-silva-007005228/)
@@ -8,7 +8,7 @@
 </div>
 
 <p>
-  Entusiasta por Desenvolvimento e Segurança da Informação, estudante de Ciência da Computação, conhecimento sólido em Java Desktop, Desenvolvimento Front-End (HTML5,    CSS3, JS) e Frameworks (Angular e Bootstrap), GitHub e Banco de Dados Relacionais.
+  Sou entusiasta por Desenvolvimento e Segurança da Informação, estudante de Ciência da Computação, conhecimento sólido em Java Desktop, Desenvolvimento Front-End (HTML5,    CSS3, JS) e Frameworks (Angular e Bootstrap), GitHub e Banco de Dados Relacionais.
 </p>
 
 ### Featured technologies
