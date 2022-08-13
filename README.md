@@ -11,7 +11,7 @@
   Entusiasta por Desenvolvimento e Segurança da Informação, estudante de Ciência da Computação, conhecimento sólido em Java Desktop, Desenvolvimento Front-End (HTML5,    CSS3, JS) e Frameworks (Angular e Bootstrap), GitHub e Banco de Dados Relacionais.
 </p>
 
-### Tecnologias Destaques
+### Featured technologies
 <div style="display: inline_block;"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
