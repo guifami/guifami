@@ -4,7 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ruiz-da-silva-007005228/)
 
 <div style="display: inline_block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifami&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifami&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifami&layout=compact&theme=dracula&langs_count=8"/>
 </div>
 
 <p>
