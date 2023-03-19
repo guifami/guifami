@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=444444&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá,+Me+chamo+Guilherme+Ruiz+da+Silva.;Tenho+19+anos+de+idade.+:%29;Sou+desenvolvedor+de+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=444444&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Guilherme+Ruiz+da+Silva.;Tenho+19+anos+de+idade.+:%29;🎓+Sou+desenvolvedor+de+software.)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guifami&show_icons=true&count_private=true&hide_border=true&title_color=39ffda&icon_color=eaff39&text_color=c9d1d9&bg_color=1e1e1e" alt="Guilherme Ruiz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifami&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=1e1e1e" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guifami&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ed8b00&text_color=d3d3d3&bg_color=232f3e" alt="Guilherme Ruiz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifami&layout=compact&hide_border=true&title_color=ffffff&text_color=d3d3d3&bg_color=232f3e" />
 </div><br>
 
 ### Principais Skills e Abordagens
@@ -11,13 +11,13 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-e7c000?style=for-the-badge&logo=microsoft-sql-server&logoColor=000000)
 
-<ul>
-  <li>SOLID</li>
-  <li>RESTful APIs</li>
-  <li>Testes Unitários</li>
-  <li>Clean Architecture</li>
-  <li>Design Patterns</li>
-</ul>
+
+SOLID,
+RESTful APIs,
+Testes Unitários,
+<b>Clean Architecture</b>
+e Design Patterns.
+
 
 ### Outras Skills
 
