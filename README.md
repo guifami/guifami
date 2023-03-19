@@ -4,8 +4,10 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guifami&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=1e1e1e" alt="Guilherme Ruiz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifami&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=1e1e1e" />
 </div>
- 
-### Main skills:
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-e7c000?style=for-the-badge&logo=microsoft-sql-server&logoColor=000000)
+
+<div align="center"> 
+  ### Main skills:
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-e7c000?style=for-the-badge&logo=microsoft-sql-server&logoColor=000000)
+</div>
