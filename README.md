@@ -28,7 +28,6 @@ e Design Patterns.
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Netbeans](https://img.shields.io/badge/netbeans-9fbf00?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
-![Java](https://img.shields.io/badge/SSMS-%ffc01f.svg?style=for-the-badge&logo=ssms&logoColor=white)
 
 ### Estudando no momento
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
