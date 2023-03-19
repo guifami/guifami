@@ -14,9 +14,9 @@
 
 ### Principais Skills e Abordagens
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-e7c000?style=for-the-badge&logo=microsoft-sql-server&logoColor=000000)
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 SOLID,
 RESTful APIs,
@@ -28,6 +28,7 @@ e Design Patterns.
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Netbeans](https://img.shields.io/badge/netbeans-9fbf00?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+![Java](https://img.shields.io/badge/SSMS-%ffc01f.svg?style=for-the-badge&logo=ssms&logoColor=white)
 
 ### Estudando no momento
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
