@@ -11,15 +11,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-e7c000?style=for-the-badge&logo=microsoft-sql-server&logoColor=000000)
 
-
 SOLID,
 RESTful APIs,
 Testes Unitários,
 <b>Clean Architecture</b>
 e Design Patterns.
-
-
-### Outras Skills
 
 ### Ferramentas
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
