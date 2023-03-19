@@ -32,4 +32,6 @@ e Design Patterns.
 ![Netbeans](https://img.shields.io/badge/netbeans-9fbf00?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
 ### Estudando no momento
+<p>Atualmente estou trilhando meu aprendizado em Cloud Computing, técnicas de otimização, segurança e qualidade no desenvolvimento de APIs.</p>
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-041e43?style=for-the-badge&logo=amazonaws&logoColor=white)
