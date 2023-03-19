@@ -30,4 +30,4 @@ e Design Patterns.
 ![Netbeans](https://img.shields.io/badge/netbeans-9fbf00?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
 ### Estudando no momento
-![AWS](https://img.shields.io/badge/Amazon_AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-041e43?style=for-the-badge&logo=amazonaws&logoColor=white)
