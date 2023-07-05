@@ -7,12 +7,6 @@
 </div>
 <br>
 <p>Entusiasta por Desenvolvimento e Segurança da Informação, estudante de Ciência da Computação, conhecimento sólido em Java Desktop, Desenvolvimento Front-End (HTML5, CSS3, JS) e Frameworks (Angular), Back-End (ASP.NET Core), GitHub, Banco de Dados Relacionais, RPA - A360 e Splunk.</p>
-<br>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guifami&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=e59f3c&text_color=d3d3d3&bg_color=041e43" alt="Guilherme Ruiz github stats" /> 
-  <img width="37.5%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifami&layout=compact&hide_border=true&title_color=ffffff&text_color=d3d3d3&bg_color=041e43" />
-</div>
-<br>
 
 ### Principais Skills e Abordagens
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
