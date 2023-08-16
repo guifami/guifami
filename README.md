@@ -16,6 +16,7 @@
 SOLID,
 RESTful APIs,
 Testes Unitários,
+Testes de Integração,
 Clean Architecture
 e Design Patterns.
 
