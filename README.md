@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Guilherme+Ruiz+da+Silva.;Tenho+19+anos+de+idade.+=%29;🌐+Sou+desenvolvedor+de+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#2396ed&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Guilherme+Ruiz+da+Silva.;Tenho+19+anos+de+idade.+=%29;🌐+Sou+desenvolvedor+de+software.)](https://git.io/typing-svg)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-ruiz-da-silva-007005228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
