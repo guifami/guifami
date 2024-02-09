@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/guilherme-ruiz-da-silva-007005228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 <br>
-<p>Entusiasta por Desenvolvimento e Segurança da Informação, estudante de Ciência da Computação, conhecimento sólido em Cloud AWS, Desenvolvimento Front-End (HTML5, CSS3, JS) e Frameworks (Angular), Back-End (ASP.NET Core e Spring Boot), GitHub, Banco de Dados Relacionais e não Relacionais, RPA - A360 e Splunk.</p>
+<p>Apaixonado por Desenvolvimento, Cloud e Segurança da Informação, atual estudante de Ciência da Computação, tenho me dedicado a expandir meu conhecimento em tecnologias modernas. Minha trajetória é marcada por uma base sólida em desenvolvimento de software e uma curiosidade insaciável que me leva a explorar novas soluções e práticas inovadoras no campo da tecnologia.</p>
 
 ### Principais Skills e Abordagens
 <p align="left">
