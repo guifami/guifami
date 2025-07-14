@@ -1,25 +1,58 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2396ed&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Guilherme+Ruiz+da+Silva.;Tenho+20+anos+de+idade.+=%29;🌐+Sou+desenvolvedor+de+software.)](https://git.io/typing-svg)
+<h1 align="center">Olá! Eu sou o Guilherme 👋</h1>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-ruiz-da-silva-007005228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
-<br>
-<p>Apaixonado por Desenvolvimento, Cloud e Segurança da Informação, atual estudante de Ciência da Computação, tenho me dedicado a expandir meu conhecimento em tecnologias modernas. Minha trajetória é marcada por uma base sólida em desenvolvimento de software e uma curiosidade insaciável que me leva a explorar novas soluções e práticas inovadoras no campo da tecnologia.</p>
-
-### Principais Skills e Abordagens
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,angular,java,spring,linux,mysql,cs,dotnet,docker,git&theme=light" />
-  </a>
+<p align="center">
+  Engenheiro de Software apaixonado por <strong>Desenvolvimento, Cloud e Segurança da Informação</strong>.  
+  <br>
+  Sempre em busca de transformar tecnologia em soluções escaláveis e eficientes.
 </p>
 
-SOLID,
-RESTful APIs,
-Testes Unitários,
-Testes de Integração,
-Clean Architecture,
-Hexagonal Architecture
-e Design Patterns.
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de Ciência da Computação com sólida experiência em desenvolvimento de software e um grande interesse por soluções modernas e seguras na nuvem. Atuo com foco em qualidade de código, escalabilidade e boas práticas arquiteturais, com especial atenção a ambientes distribuídos e de missão crítica.
+
+Tenho experiência prática em:
+
+- 💻 **Desenvolvimento de aplicações web com Angular, Java, Spring Boot e .NET Core**
+- 🧩 **Arquitetura Hexagonal e Clean Architecture**
+- 🔐 **Segurança da informação com práticas modernas de autenticação e criptografia (JWT, KMS, Secrets Manager)**
+- ☁️ **Desenvolvimento e infraestrutura na AWS (Lambda, ECS, EKS, RDS, S3 etc.)**
+- 📦 **Contêineres e orquestração com Docker e Kubernetes**
+- 🧪 **Testes automatizados (unitários/integrados) com cobertura via JaCoCo e Coverlet**
+- 📈 **Observabilidade com Datadog, Splunk, Grafana, AppDynamics e CloudWatch**
+- ⚙️ **Infraestrutura como código com Terraform e CloudFormation**
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,angular,python,spring,dotnet,docker,kubernetes,aws,terraform,git,github,mysql,postgres,linux,vscode" />
+</p>
+
+---
+
+## 💼 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| [📚 Projeto Integrador USCS](https://guifami.github.io/Integrator-Project-Uscs/) | Projeto Intedisciplinar do terceiro ano do ensino médio do Colégio Universitário USCS. | `HTML`, `CSS`, `JavaScript` |
+| [🧠 IMT Haktoo S1](https://github.com/guifami/IMT-Haktoo-S1) | Projeto Intedisciplinar do primeiro semestre no Instituto Mauá de Tecnologia. Desenvolvido com Java via NetBeans e banco de dados MySQL. | `Java`, `MySQL`, `NetBeans` |
+| [🎮 Maua Esports S2](https://guifami.github.io/IMT-MauaEsports-S2/) | Projeto Intedisciplinar do segundo semestre no Instituto Mauá de Tecnologia. | `Python`, `Angular`, `PostgreSql`, `Flask`, `Docker` |
+| [🛍️ Shop4Devs](https://guifami.github.io/shop-4-devs-frontend/) | Protótipo de E-Commerce com produtos direcionados a desenvolvedores de software | `Angular` |
+| [🔧 Junior Case API RESTful](https://github.com/guifami/Junior-Case-Spring-Boot-Restful-Api) | API RESTful construída com boas práticas e documentação Swagger. Automatizada com GitHub Actions e containerizada com Docker. | `Java`, `MySQL`, `Docker`, `GitHub Actions`, `Swagger` |
+| [🚗 IAB Mob](https://github.com/guifami/projeto-iabmob-kotlin) | Aplicativo Android que calcula rotas, estima tempo de viagem e sugere meios de transporte usando o Google Maps. | `Kotlin`, `MVVM`, `Google Maps SDK`, `OkHttp`, `Firebase Auth`, `Android Jetpack` |
+
+> _Mais projetos em breve..._
+
+---
+
+## 📫 Onde me encontrar
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/guilherme-ruiz-da-silva-007005228/)
+
+---
 
 ## Badges
 <p align="left">
