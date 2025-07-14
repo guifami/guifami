@@ -28,7 +28,7 @@ Tenho experiência prática em:
 ## 🛠️ Tecnologias que utilizo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,angular,python,spring,dotnet,docker,kubernetes,aws,terraform,git,github,mysql,postgres,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,java,angular,cs,git,python,docker,linux,kubernetes,terraform" />
 </p>
 
 ---
